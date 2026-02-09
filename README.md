@@ -44,7 +44,7 @@ I work primarily with:
 
 ### Contact
 
-- Portfolio: pherbcampton.com  
+- Portfolio: https://pherbcampton.com  
 - Email: tuinperisamuel@yahoo.com  
-- LinkedIn: linkedin.com/in/pherbcampton  
-- X: @pherbcampton
+- LinkedIn: https://linkedin.com/in/pherbcampton  
+- X: https://x.com/pherbcampton
