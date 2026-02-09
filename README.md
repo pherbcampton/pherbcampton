@@ -10,7 +10,7 @@ Frontend Engineer and Co‑Founder & CTO at Chapta, focused on building fast, re
 
 - Frontend Engineer & CTO at Chapta
 
-- Based between London and Nigeria
+- Based in London, England, United Kingdom
 
 - MSc Management, University of Hertfordshire
 
