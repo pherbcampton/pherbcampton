@@ -2,8 +2,6 @@
   <img src="https://pherbcampton.com/social-image.png" alt="Samuel Tuinperi – Frontend Developer" />
 </p>
 
----
-
 ## Samuel Tuinperi
 
 Frontend Engineer and Co‑Founder & CTO at Chapta, focused on building fast, reliable, and user‑centric web applications with React and Next.js. I care about thoughtful interfaces, maintainable frontend architecture, and shipping products that solve real problems.
