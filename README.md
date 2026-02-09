@@ -10,7 +10,7 @@ Frontend Engineer and Co‑Founder & CTO at Chapta, focused on building fast, re
 
 - Experience across fintech, e‑commerce, and messaging products
 
-Focus
+### Focus
 
 I work primarily with:
 
